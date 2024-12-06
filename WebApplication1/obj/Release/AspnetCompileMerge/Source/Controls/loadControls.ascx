@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="loadControls.ascx.cs" Inherits="WebApplication1.Controls.loadControls" %>
+<asp:PlaceHolder ID="PlaceHolder1" runat="server"></asp:PlaceHolder>
